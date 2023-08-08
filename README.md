@@ -1,15 +1,15 @@
 # Convolutional_Neural_Network
 
-```markdown
-# Convolutional Neural Network (CNN) for Image Classification
+
+Convolutional Neural Network (CNN) for Image Classification
 
 This repository contains code for training a simple CNN model for image classification using PyTorch. The trained model can be saved and later used to make predictions on new images.
 
-## Usage
 
 1. Clone this repository to your local machine:
 
-   ```sh
+
+```sh
    git clone https://github.com/Jibrilmamo/convolutional-neural-network.git
    cd convolutional-neural-network
    ```
